@@ -42,11 +42,13 @@ A professional desktop password generator built with Python and Tkinter.
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=17-Mello&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Sanyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=17-Mello&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17-Mello&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-Mello&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ## 🎯 Currently Learning
